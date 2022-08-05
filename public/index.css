@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+}
+body main {
+  margin: auto;
+}
+
+#my_dataviz {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=index.css.map */
